@@ -62,5 +62,5 @@ The commands available for all "Pleb" rank
     - Crocodile  - Coal
     - Morphine  - Bone
     - Ecstasy  - Glowstone Dust
-    - DNP  - Wheat Seeds
+    - DNP  - Bone Meal
     - Fermented Human Shit  - Cocoa Beans
